@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://satta-global.netlify.app/sitemap.xml
